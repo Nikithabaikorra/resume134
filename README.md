@@ -24,3 +24,5 @@
 - python
 - django
 
+#### goals
+- software developer in java
